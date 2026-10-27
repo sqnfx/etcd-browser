@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=etcd browser
+Comment=Przeglądarka i konsola administracyjna klastrów etcd
+Exec=etcd-browser
+Icon=etcd-browser
+Terminal=false
+Categories=Development;Network;
+StartupWMClass=etcd-browser
